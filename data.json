@@ -1,0 +1,455 @@
+{
+
+    "Île-de-France": [
+      {
+        "title": "Intelligence Artificielle et Médecine Personnalisée",
+        "institution": "INRIA Paris",
+        "description": "Développement d'algorithmes d'IA pour la personnalisation des traitements médicaux basés sur les données génomiques.",
+        "budget": "2.5M €",
+        "budgetValue": 2.5,
+        "domain": "Intelligence Artificielle",
+        "type": "Recherche fondamentale",
+        "year": 2023,
+        "status": "en-cours",
+        "website": "https://www.inria.fr",
+        "contact": "contact.ia@inria.fr"
+      },
+      {
+        "title": "Mobilité Urbaine Durable",
+        "institution": "École des Ponts ParisTech",
+        "description": "Recherche sur l'optimisation des transports urbains et le développement de solutions de mobilité électrique.",
+        "budget": "1.8M €",
+        "budgetValue": 1.8,
+        "domain": "Environnement",
+        "type": "Recherche appliquée",
+        "year": 2024,
+        "status": "planifie",
+        "website": "https://www.enpc.fr",
+        "contact": "mobilite@enpc.fr"
+      },
+      {
+        "title": "Cryptographie Quantique",
+        "institution": "Sorbonne Université",
+        "description": "Étude des applications de la mécanique quantique pour sécuriser les communications numériques.",
+        "budget": "3.2M €",
+        "budgetValue": 3.2,
+        "domain": "Intelligence Artificielle",
+        "type": "Recherche fondamentale",
+        "year": 2022,
+        "status": "en-cours",
+        "website": "https://www.sorbonne-universite.fr",
+        "contact": "crypto@sorbonne-universite.fr"
+      }
+    ],
+    "Provence-Alpes-Côte d'Azur": [
+      {
+        "title": "Énergies Marines Renouvelables",
+        "institution": "Université d'Aix-Marseille",
+        "description": "Développement de technologies pour l'exploitation de l'énergie des vagues et des courants marins.",
+        "budget": "2.1M €",
+        "budgetValue": 2.1,
+        "domain": "Énergie",
+        "type": "Recherche appliquée",
+        "year": 2023,
+        "status": "en-cours",
+        "website": "https://www.univ-amu.fr",
+        "contact": "energie.marine@univ-amu.fr"
+      },
+      {
+        "title": "Biotechnologies Bleues",
+        "institution": "Station Marine d'Endoume",
+        "description": "Recherche sur les micro-organismes marins pour développer de nouveaux biomédicaments.",
+        "budget": "1.9M €",
+        "budgetValue": 1.9,
+        "domain": "Biotechnologie",
+        "type": "Recherche fondamentale",
+        "year": 2024,
+        "status": "planifie",
+        "website": "https://www.obs-endoume.fr",
+        "contact": "biotech@obs-endoume.fr"
+      },
+      {
+        "title": "Astrophysique et Cosmologie",
+        "institution": "Observatoire de Haute-Provence",
+        "description": "Étude des exoplanètes et recherche de signes de vie extraterrestre",
+        "budget": "2.8M €",
+        "budgetValue": 2.8,
+        "domain": "Environnement",
+        "type": "Recherche fondamentale",
+        "year": 2022,
+        "status": "en-cours",
+        "website": "https://www.obs-hp.fr",
+        "contact": "astrophysique@obs-hp.fr"
+      }
+    ],
+    "Nouvelle-Aquitaine": [
+      {
+        "title": "Photonique et Laser",
+        "institution": "Institut d'Optique Bordeaux",
+        "description": "Développement de lasers ultra-puissants pour la recherche fondamentale en physique.",
+        "budget": "3.5M €",
+        "budgetValue": 3.5,
+        "domain": "Matériaux",
+        "type": "Recherche fondamentale",
+        "year": 2023,
+        "status": "en-cours",
+        "website": "https://www.institutoptique.fr",
+        "contact": "laser@institutoptique.fr"
+      },
+      {
+        "title": "Viticulture Durable",
+        "institution": "INRAE Bordeaux",
+        "description": "Recherche sur les cépages résistants au changement climatique et aux maladies.",
+        "budget": "1.4M €",
+        "budgetValue": 1.4,
+        "domain": "Agriculture",
+        "type": "Recherche appliquée",
+        "year": 2024,
+        "status": "planifie",
+        "website": "https://www.bordeaux.inrae.fr",
+        "contact": "viticulture@bordeaux.inrae.fr"
+      },
+      {
+        "title": "Océanographie Physique",
+        "institution": "IFREMER La Rochelle",
+        "description": "Étude des courants océaniques et de leur rôle dans le climat global.",
+        "budget": "2.2M €",
+        "budgetValue": 2.2,
+        "domain": "Environnement",
+        "type": "Recherche fondamentale",
+        "year": 2022,
+        "status": "en-cours",
+        "website": "https://wwz.ifremer.fr",
+        "contact": "ocean@ifremer.fr"
+      }
+    ],
+    "Pays de la Loire": [
+      {
+        "title": "Éolien Offshore",
+        "institution": "École Centrale Nantes",
+        "description": "Développement de technologies d'éoliennes flottantes pour les eaux profondes.",
+        "budget": "2.9M €",
+        "budgetValue": 2.9,
+        "domain": "Énergie",
+        "type": "Recherche appliquée",
+        "year": 2023,
+        "status": "en-cours",
+        "website": "https://www.ec-nantes.fr",
+        "contact": "eolien@ec-nantes.fr"
+      },
+      {
+        "title": "Immunothérapie Cancéreuse",
+        "institution": "INSERM Nantes",
+        "description": "Recherche sur de nouveaux traitements immunothérapeutiques contre le cancer.",
+        "budget": "2.4M €",
+        "budgetValue": 2.4,
+        "domain": "Médecine",
+        "type": "Recherche fondamentale",
+        "year": 2024,
+        "status": "planifie",
+        "website": "https://www.inserm.fr",
+        "contact": "immuno@inserm.fr"
+      },
+      {
+        "title": "Matériaux Composites",
+        "institution": "Institut de Recherche en Génie Civil et Mécanique",
+        "description": "Développement de matériaux ultra-légers pour l'aéronautique et l'automobile.",
+        "budget": "1.8M €",
+        "budgetValue": 1.8,
+        "domain": "Matériaux",
+        "type": "Recherche appliquée",
+        "year": 2022,
+        "status": "termine",
+        "website": "https://www.irccyn.ec-nantes.fr",
+        "contact": "materiaux@irccyn.ec-nantes.fr"
+      }
+    ],
+    "Bretagne": [
+      {
+        "title": "Algues et Biocarburants",
+        "institution": "Station Biologique de Roscoff",
+        "description": "Production de biocarburants de 3e génération à partir de microalgues marines.",
+        "budget": "2.0M €",
+        "budgetValue": 2.0,
+        "domain": "Énergie",
+        "type": "Recherche appliquée",
+        "year": 2023,
+        "status": "en-cours",
+        "website": "https://www.sb-roscoff.fr",
+        "contact": "algues@sb-roscoff.fr"
+      },
+      {
+        "title": "Télécommunications Quantiques",
+        "institution": "Télécom Bretagne",
+        "description": "Développement de réseaux de communication quantique sécurisés.",
+        "budget": "2.7M €",
+        "budgetValue": 2.7,
+        "domain": "Intelligence Artificielle",
+        "type": "Recherche fondamentale",
+        "year": 2024,
+        "status": "planifie",
+        "website": "https://www.imt-atlantique.fr",
+        "contact": "quantum@imt-atlantique.fr"
+      },
+      {
+        "title": "Aquaculture Durable",
+        "institution": "IFREMER Brest",
+        "description": "Techniques d'élevage respectueuses de l'environnement pour les produits de la mer.",
+        "budget": "1.6M €",
+        "budgetValue": 1.6,
+        "domain": "Environnement",
+        "type": "Recherche appliquée",
+        "year": 2022,
+        "status": "en-cours",
+        "website": "https://wwz.ifremer.fr",
+        "contact": "aquaculture@ifremer.fr"
+      }
+    ],
+    "Centre-Val de Loire": [
+      {
+        "title": "Cosmétiques Bio-Sourcés",
+        "institution": "Université de Tours",
+        "description": "Développement de cosmétiques à partir d'extraits végétaux locaux.",
+        "budget": "1.3M €",
+        "budgetValue": 1.3,
+        "domain": "Biotechnologie",
+        "type": "Recherche appliquée",
+        "year": 2023,
+        "status": "en-cours",
+        "website": "https://www.univ-tours.fr",
+        "contact": "cosmetiques@univ-tours.fr"
+      },
+      {
+        "title": "Patrimoine et Technologies Numériques",
+        "institution": "CNRS Orléans",
+        "description": "Numérisation et préservation du patrimoine culturel par impression 3D et réalité virtuelle.",
+        "budget": "1.9M €",
+        "budgetValue": 1.9,
+        "domain": "Intelligence Artificielle",
+        "type": "Recherche appliquée",
+        "year": 2024,
+        "status": "planifie",
+        "website": "https://www.cnrs-orleans.fr",
+        "contact": "patrimoine@cnrs-orleans.fr"
+      },
+      {
+        "title": "Énergies Renouvelables Rurales",
+        "institution": "Polytech Orléans",
+        "description": "Solutions énergétiques adaptées aux territoires ruraux : biomasse et petit éolien.",
+        "budget": "1.5M €",
+        "budgetValue": 1.5,
+        "domain": "Énergie",
+        "type": "Recherche appliquée",
+        "year": 2022,
+        "status": "termine",
+        "website": "https://www.polytech-orleans.fr",
+        "contact": "energie@polytech-orleans.fr"
+      }
+    ],
+    "Bourgogne-Franche-Comté": [
+      {
+        "title": "Métallurgie Avancée",
+        "institution": "Université de Franche-Comté",
+        "description": "Développement d'alliages ultra-résistants pour l'industrie automobile et aéronautique.",
+        "budget": "2.1M €",
+        "budgetValue": 2.1,
+        "domain": "Matériaux",
+        "type": "Recherche appliquée",
+        "year": 2023,
+        "status": "en-cours",
+        "website": "https://www.univ-fcomte.fr",
+        "contact": "metallurgie@univ-fcomte.fr"
+      },
+      {
+        "title": "Terroir et Microbiome",
+        "institution": "INRAE Dijon",
+        "description": "Étude du rôle des micro-organismes du sol dans la qualité des vins de Bourgogne.",
+        "budget": "1.7M €",
+        "budgetValue": 1.7,
+        "domain": "Agriculture",
+        "type": "Recherche fondamentale",
+        "year": 2024,
+        "status": "planifie",
+        "website": "https://www.dijon.inrae.fr",
+        "contact": "terroir@dijon.inrae.fr"
+      },
+      {
+        "title": "Horlogerie de Précision",
+        "institution": "FEMTO-ST Besançon",
+        "description": "Recherche sur les oscillateurs ultra-stables pour la métrologie temps-fréquence.",
+        "budget": "2.3M €",
+        "budgetValue": 2.3,
+        "domain": "Matériaux",
+        "type": "Recherche fondamentale",
+        "year": 2022,
+        "status": "en-cours",
+        "website": "https://www.femto-st.fr",
+        "contact": "horlogerie@femto-st.fr"
+      }
+    ],
+    "Grand Est": [
+      {
+        "title": "Chimie Verte Industrielle",
+        "institution": "Université de Strasbourg",
+        "description": "Développement de procédés chimiques respectueux de l'environnement pour l'industrie.",
+        "budget": "2.8M €",
+        "budgetValue": 2.8,
+        "domain": "Environnement",
+        "type": "Recherche appliquée",
+        "year": 2023,
+        "status": "en-cours",
+        "website": "https://www.unistra.fr",
+        "contact": "chimieverte@unistra.fr"
+      },
+      {
+        "title": "Neurosciences Computationnelles",
+        "institution": "CNRS Nancy",
+        "description": "Modélisation du cerveau humain et développement d'interfaces cerveau-machine.",
+        "budget": "3.1M €",
+        "budgetValue": 3.1,
+        "domain": "Médecine",
+        "type": "Recherche fondamentale",
+        "year": 2024,
+        "status": "planifie",
+        "website": "https://www.cnrs-nancy.fr",
+        "contact": "neuro@cnrs-nancy.fr"
+      },
+      {
+        "title": "Matériaux pour l'Énergie",
+        "institution": "Université de Lorraine",
+        "description": "Recherche sur les batteries du futur et les cellules photovoltaïques haute performance.",
+        "budget": "2.6M €",
+        "budgetValue": 2.6,
+        "domain": "Énergie",
+        "type": "Recherche appliquée",
+        "year": 2022,
+        "status": "en-cours",
+        "website": "https://www.univ-lorraine.fr",
+        "contact": "batteries@univ-lorraine.fr"
+      }
+    ],
+    "Hauts-de-France": [
+      {
+        "title": "Textiles Techniques Intelligents",
+        "institution": "ENSAIT Roubaix",
+        "description": "Développement de textiles connectés pour la santé et le sport de haut niveau.",
+        "budget": "1.9M €",
+        "budgetValue": 1.9,
+        "domain": "Matériaux",
+        "type": "Recherche appliquée",
+        "year": 2023,
+        "status": "en-cours",
+        "website": "https://www.ensait.fr",
+        "contact": "textiles@ensait.fr"
+      },
+      {
+        "title": "Géothermie Profonde",
+        "institution": "École des Mines de Douai",
+        "description": "Exploitation de la géothermie pour le chauffage urbain dans le bassin minier.",
+        "budget": "2.4M €",
+        "budgetValue": 2.4,
+        "domain": "Énergie",
+        "type": "Recherche appliquée",
+        "year": 2024,
+        "status": "planifie",
+        "website": "https://www.imt-nord-europe.fr",
+        "contact": "geothermie@imt-nord-europe.fr"
+      },
+      {
+        "title": "Intelligence Artificielle Industrielle",
+        "institution": "Université de Lille",
+        "description": "Application de l'IA pour l'optimisation des processus industriels et la maintenance prédictive.",
+        "budget": "2.2M €",
+        "budgetValue": 2.2,
+        "domain": "Intelligence Artificielle",
+        "type": "Recherche appliquée",
+        "year": 2022,
+        "status": "en-cours",
+        "website": "https://www.univ-lille.fr",
+        "contact": "ia-industrie@univ-lille.fr"
+      }
+    ],
+    "Normandie": [
+      {
+        "title": "Hydrogène Vert",
+        "institution": "Université de Caen",
+        "description": "Production d'hydrogène par électrolyse utilisant l'énergie éolienne offshore.",
+        "budget": "2.7M €",
+        "budgetValue": 2.7,
+        "domain": "Énergie",
+        "type": "Recherche appliquée",
+        "year": 2023,
+        "status": "en-cours",
+        "website": "https://www.unicaen.fr",
+        "contact": "hydrogene@unicaen.fr"
+      },
+      {
+        "title": "Mémoire et Cognition",
+        "institution": "INSERM Caen",
+        "description": "Recherche sur les mécanismes de la mémoire et traitement de la maladie d'Alzheimer.",
+        "budget": "2.1M €",
+        "budgetValue": 2.1,
+        "domain": "Médecine",
+        "type": "Recherche fondamentale",
+        "year": 2024,
+        "status": "planifie",
+        "website": "https://www.inserm.fr",
+        "contact": "memoire@inserm.fr"
+      },
+      {
+        "title": "Aquaculture en Mer",
+        "institution": "SMEL Cherbourg",
+        "description": "Développement de fermes aquacoles en pleine mer pour la production durable de poissons.",
+        "budget": "1.8M €",
+        "budgetValue": 1.8,
+        "domain": "Environnement",
+        "type": "Recherche appliquée",
+        "year": 2022,
+        "status": "termine",
+        "website": "https://www.smel-cherbourg.fr",
+        "contact": "aquaculture@smel-cherbourg.fr"
+      }
+    ],
+    "Corse": [
+      {
+        "title": "Écosystèmes Insulaires",
+        "institution": "Université de Corse",
+        "description": "Étude de la biodiversité endémique corse et stratégies de conservation.",
+        "budget": "1.2M €",
+        "budgetValue": 1.2,
+        "domain": "Environnement",
+        "type": "Recherche fondamentale",
+        "year": 2023,
+        "status": "en-cours",
+        "website": "https://www.univ-corse.fr",
+        "contact": "ecosystemes@univ-corse.fr"
+      },
+      {
+        "title": "Énergies Renouvelables Insulaires",
+        "institution": "CNRS Ajaccio",
+        "description": "Solutions énergétiques autonomes combinant solaire, éolien et stockage pour les îles.",
+        "budget": "1.8M €",
+        "budgetValue": 1.8,
+        "domain": "Énergie",
+        "type": "Recherche appliquée",
+        "year": 2024,
+        "status": "planifie",
+        "website": "https://www.cnrs-ajaccio.fr",
+        "contact": "energie@cnrs-ajaccio.fr"
+      },
+      {
+        "title": "Plantes Médicinales Méditerranéennes",
+        "institution": "Station de Recherche de Corte",
+        "description": "Valorisation des propriétés thérapeutiques des plantes du maquis corse.",
+        "budget": "1.1M €",
+        "budgetValue": 1.1,
+        "domain": "Biotechnologie",
+        "type": "Recherche appliquée",
+        "year": 2022,
+        "status": "en-cours",
+        "website": "https://www.src-corte.fr",
+        "contact": "plantes@src-corte.fr"
+      }
+    ]
+
+}
