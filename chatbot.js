@@ -4,8 +4,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const chatbotMessages = document.getElementById('chatbot-messages');
     const chatbotInputField = document.getElementById('chatbot-input-field');
     const chatbotSendBtn = document.getElementById('chatbot-send-btn');
+    const chatbotToggleBtn = document.getElementById('chatbot-toggle-btn');
 
     // --- Event Listeners ---
+    chatbotToggleBtn.addEventListener('click', () => {
+        const isVisible = chatbotContainer.style.display === 'flex';
+        chatbotContainer.style.display = isVisible ? 'none' : 'flex';
+    });
+
     closeChatbotBtn.addEventListener('click', () => {
         chatbotContainer.style.display = 'none';
     });
