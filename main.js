@@ -239,7 +239,7 @@ function setupToggleButtons() {
     projectBtn.addEventListener('click', () => {
         projectBtn.classList.add('active');
         companyBtn.classList.remove('active');
-        projectSpecificFilters.style.display = 'block';
+        projectSpecificFilters.style.display = 'flex';
         companySpecificFilters.style.display = 'none';
     });
 
@@ -247,7 +247,7 @@ function setupToggleButtons() {
         companyBtn.classList.add('active');
         projectBtn.classList.remove('active');
         projectSpecificFilters.style.display = 'none';
-        companySpecificFilters.style.display = 'block';
+        companySpecificFilters.style.display = 'flex';
     });
 
     // Initial state
